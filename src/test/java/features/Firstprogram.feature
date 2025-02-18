@@ -2,11 +2,11 @@
 
 Feature: Loginto Application
 
-#Scenario: Application Login
-#Given User openin Application
-#When user Login to Application with username "1212121212" and Password "Dress@123"
-#And Home page should be display
-#Then close window
+Scenario: Application Login
+Given User openin Application
+When user Login to Application with username "1212121212" and Password "Dress@123"
+And Home page should be display
+Then close window
 
  
 #Scenario:  Application Login and logout
